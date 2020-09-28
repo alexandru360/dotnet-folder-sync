@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBa1PWdBCfXVxcsyMoT2/O6AOrQXCGfYBGJzEVlYtqsd6zNLvaofAmaA1Bk3fQe+My6gAVT5XfZdOb6gksjtUw==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\dotnet-folder-sync\\dotnet-folder-sync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

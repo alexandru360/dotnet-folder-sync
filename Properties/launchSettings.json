@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet-folder-sync": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"C:\\Program Files (x86)\\Zoom\\bin\" %USERPROFILE%\\AppData\\Local\\Temp\\aaa"
+    }
+  }
+}
