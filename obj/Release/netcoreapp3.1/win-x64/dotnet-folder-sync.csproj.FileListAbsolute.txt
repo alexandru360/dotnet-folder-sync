@@ -224,6 +224,7 @@ D:\dev\dotnet-folder-sync\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
 D:\dev\dotnet-folder-sync\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
 D:\dev\dotnet-folder-sync\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
 D:\dev\dotnet-folder-sync\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+D:\dev\dotnet-folder-sync\obj\Release\netcoreapp3.1\win-x64\dotnet-folder-sync.csprojAssemblyReference.cache
 D:\dev\dotnet-folder-sync\obj\Release\netcoreapp3.1\win-x64\dotnet-folder-sync.AssemblyInfoInputs.cache
 D:\dev\dotnet-folder-sync\obj\Release\netcoreapp3.1\win-x64\dotnet-folder-sync.AssemblyInfo.cs
 D:\dev\dotnet-folder-sync\obj\Release\netcoreapp3.1\win-x64\dotnet-folder-sync.csproj.CoreCompileInputs.cache
